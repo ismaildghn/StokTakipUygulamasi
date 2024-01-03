@@ -1,0 +1,14 @@
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\bin\Debug\StokTakipUygulaması.exe.config
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\bin\Debug\StokTakipUygulaması.exe
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\bin\Debug\StokTakipUygulaması.pdb
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.csproj.AssemblyReference.cache
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.Form1.resources
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.Properties.Resources.resources
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.csproj.GenerateResource.cache
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.exe
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.pdb
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.FrmUrunEkle.resources
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.FrmStokGiriş.resources
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.FrmStokCikis.resources
+C:\Users\İsmail\Source\Repos\StokTakipUygulaması\StokTakipUygulaması\obj\Debug\StokTakipUygulaması.FrmStokTakip.resources
